@@ -1,5 +1,5 @@
 # Smart Attendance System
-hello 
+
 A robust and efficient web-based attendance management system designed for educational institutions. This system streamlines the attendance process using QR code scanning, manual entry for teachers, and device locking for security.
 
 ## 🚀 Features
